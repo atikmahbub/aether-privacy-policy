@@ -16,4 +16,4 @@ All financial data is stored securely and locally on the user's device. No data 
 Users are responsible for securing their own devices.
 
 ### Contact
-For questions, contact: your@email.com
+For questions, contact: atikmahbub100@email.com
